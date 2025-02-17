@@ -2,7 +2,7 @@
 
 ## Usando los clusters
 
-## Carlos Rodrñiguez Ruiz
+## Carlos Rodríguez Ruiz
 
 ### 2.1. Primero sin clúster
 
